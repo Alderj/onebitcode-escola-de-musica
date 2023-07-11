@@ -4,4 +4,4 @@
 ## Aprendendo sobre:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
 
-![Sem Título-1](https://github.com/Alderj/calcular-gorgeta/assets/33815682/0b91be01-c19f-4d4f-86b4-01b4ef124846)
+<img src="https://github.com/Alderj/x-men/blob/main/screencapture-alderj-github-io-x-men-2023-07-10-14_07_49.png">
